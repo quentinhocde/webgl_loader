@@ -1,4 +1,4 @@
-# WegGL cube Loader
+# WegGL cube loader
 
 WegGL cube Loader is a loop animation with a cube make with threeJS.
 
